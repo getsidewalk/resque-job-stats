@@ -48,3 +48,6 @@ Gemfile.lock
 
 # For rubinius:
 #*.rbc
+
+.rbenv-gemsets
+.ruby-version
